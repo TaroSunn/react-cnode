@@ -36,3 +36,9 @@ webpack4.x版本需要通过`webpack-cli`才可以打包
 
 
 
+# day2 
+## 服务端渲染
+
+`server-entry.js`服务端渲染入口文件
+
+`webpack.config.server.js`服务端渲染配置文件
